@@ -12,10 +12,6 @@ PochiTap is a casual tapping game where players tap the screen to earn points an
 - Sound effects
 - Easy-to-use interface
 
-## Screenshots
-
-Coming soon!
-
 ## Built With
 
 - Kotlin
